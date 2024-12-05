@@ -46,7 +46,7 @@ Follow these steps to set up and run the application on your local machine:
    ```bash
    python "speech main file.py"
    ```
-4. Open your web browser and navigate to http://127.0.0.1:5000.
+4. Open your web browser and navigate to ```http://127.0.0.1:5000```.
 ## Usage
 - Open the web interface in your browser.
 - Click the Record button to start recording your voice.
