@@ -5,8 +5,10 @@ The Voice-to-Text Converter allows users to:
 - Record speech and convert it into text in real-time.
 - View the converted text through a web interface.
 - Utilize Google’s powerful Speech Recognition API for accurate results.
+  ![photo-collage png]()
+
 <p align="center">
-<img src="https://github.com/user-attachments/assets/613780e7-b0b9-4c5a-bd04-f1b1ead0c63d" alt="Girl in a jacket" width="500" height="400"> <br />
+<img src="https://github.com/user-attachments/assets/eedaf487-d0e5-48cc-8462-36c29e0ad990" alt="Girl in a jacket" width="500" height="400"> <br />
 </p>
 This application is ideal for projects requiring basic voice-to-text functionality or as a foundation for more advanced voice processing systems.
 
