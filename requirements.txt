@@ -1,1 +1,4 @@
-
+###  dependencies 
+flask 
+speech recognition 
+using pip install Flask SpeechRecognition.
