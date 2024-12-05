@@ -40,7 +40,7 @@ Follow these steps to set up and run the application on your local machine:
    cd Voice-to-text-Converter-
 2. Install required dependencies:
    ```bash
-   python "speech main file.py"
+   pip install -r requirements.txt
    ```
 3. Run the application
    ```bash
